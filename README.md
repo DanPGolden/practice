@@ -1,4 +1,9 @@
 # practice
+<<<<<<< HEAD
+I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
+
+Test Update Jeff
+=======
 
 I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
 
@@ -8,3 +13,4 @@ I enjoy JavaScript because it utilizes both Functional programming and Object-or
 
 # mark's branch
 main
+>>>>>>> 44a9915a0f8501a857864a8a3907263f6660fab3
